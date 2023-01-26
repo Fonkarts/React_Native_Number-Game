@@ -1,6 +1,6 @@
 # React_Native_Tasks-App
 
-Here's a simple React Native Game that consists in guessing your phone number.
+Here's a simple React Native Game that consists in guessing a number.
 
 ## Installation
 
